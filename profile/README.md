@@ -8,6 +8,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/zenithflow)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@zenithflow)
 
+[![Watch the video](https://vumbnail.com/1134634385.jpg)](https://vimeo.com/1134634385)
+
 </div>
 
 ---
