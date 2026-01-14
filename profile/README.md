@@ -1,6 +1,6 @@
 <div align="center">
 
-# ZenithFlow
+<img src="logo.png" alt="ZenithFlow" width="300">
 
 **The Operating System for Cognitive Warfare**
 
@@ -8,7 +8,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/zenithflow)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@zenithflow)
 
-[![Watch the video](logo.png)](https://vimeo.com/1134634385)
+<a href="https://vimeo.com/1134634385">
+  <img src="video-thumbnail.png" alt="Watch the video" width="480">
+  <br>
+  <img src="https://img.shields.io/badge/▶_Watch_Video-FF0000?style=for-the-badge" alt="Watch Video">
+</a>
 
 </div>
 
